@@ -1,0 +1,17 @@
+[
+
+{
+"projectUrl":"https://discord.gg/OpenOSRS",
+"provider":"Naxos-Plugin-Hub",
+"name":"Test Plugin Hub",
+"description":"Retrieved from the Naxos Plugin Hub",
+"id":"test-plugin",
+"releases":[
+{
+"date":"2020-10-03",
+"sha512sum":"4f9320a31c85d647ecb646b7dcad9202cd06436c3f815737f6a37a4e954adc9a609bb9e0177b31c5028e3ee7aaabfacc2b6653d2c3b762f91b9206063ae09b14",
+"version":"0.0.1",
+"url":"https://github.com/open-osrs/plugin-hosting/blob/master/release/achievementdiary-0.0.2.jar?raw=true",
+"requires":"0.0.1"
+}
+]
