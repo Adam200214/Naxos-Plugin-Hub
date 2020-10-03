@@ -25,7 +25,7 @@
 "releases":[
 {
 "date":"2020-10-03",
-"sha512sum":"42cc260f9bf30632f13bae30289c2c632f88192b12fed7e2ab88f07996175c62e4097ceb85d04ee82127ccdab6a45a4a4e97a8c50235a90534195d01b653540d",
+"sha512sum":"3a1734c8063e8aaef0ef88ac0888f8e951cca458334856ddbcc503894cafe3f35fd7fc8278b6586b569a01b70d09e582afd3336a691dc7573bb557fb204d3a00",
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/Discord-1.0.0.jar?raw=true",
 "requires":"0.0.1"
