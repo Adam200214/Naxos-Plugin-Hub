@@ -4,11 +4,11 @@
 "provider":"Naxos-Plugin-Hub",
 "name":"Ping",
 "description":"Displays your ping in-game",
-"id":"ping-plugin",
+"id":"ping",
 "releases":[
 {
 "date":"2020-10-03",
-"sha512sum":"41914a05a9cca6ea8b553014f36ed447b5dd627799d98f56e6766943e78e7ed8d478da7c7611ddea0dc7c73cfb2cd079b2bf4b11c29e8fd6f84f7c8124554bd5",
+"sha512sum":"5c2859ec41649d7feee2b5e9dbb823a044ac292d427216ab7317ccaa2e0cd0a38c9b97ed0d40abe23615d19d395b1cdf929c10f4e4648aa126d754e45cf84a75",
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/ping-1.0.0.jar?raw=true",
 "requires":"0.0.1"
