@@ -8,7 +8,7 @@
 "releases":[
 {
 "date":"2020-10-03",
-"sha512sum":"3fe4bcd3d1ab452b38c51efed44712e955cc087c73ecee5d3b51ab55ed67b5d08db0ab1425e5fc1c30c1f3636d0008f5f4a2ba903bf6d0a746cb2aab8d92dcd4",
+"sha512sum":"461080f0d2bedb0fe883ce67368367d024b7a51c98c07d33534bf97fdd49fcf9cbb17a1e51915da6039836328d606cd2c24edbd756ca66841783a17902c12ff2",
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/ping-1.0.0.jar?raw=true",
 "requires":"0.0.1"
