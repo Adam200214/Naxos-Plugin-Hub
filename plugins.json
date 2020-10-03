@@ -1,6 +1,6 @@
 [
 {
-"projectUrl":"https://discord.gg/OpenOSRS",
+"projectUrl":"",
 "provider":"Naxos-Plugin-Hub",
 "name":"Ping",
 "description":"Displays your ping in-game",
@@ -11,6 +11,23 @@
 "sha512sum":"461080f0d2bedb0fe883ce67368367d024b7a51c98c07d33534bf97fdd49fcf9cbb17a1e51915da6039836328d606cd2c24edbd756ca66841783a17902c12ff2",
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/ping-1.0.0.jar?raw=true",
+"requires":"0.0.1"
+}
+]
+},
+
+{
+"projectUrl":"",
+"provider":"Naxos-Plugin-Hub",
+"name":"Discord",
+"description":"Show your status and activity in the Discord user panel",
+"id":"discord",
+"releases":[
+{
+"date":"2020-10-03",
+"sha512sum":"42cc260f9bf30632f13bae30289c2c632f88192b12fed7e2ab88f07996175c62e4097ceb85d04ee82127ccdab6a45a4a4e97a8c50235a90534195d01b653540d",
+"version":"1.0.0",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/Discord-1.0.0.jar?raw=true",
 "requires":"0.0.1"
 }
 ]
