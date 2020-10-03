@@ -2,17 +2,18 @@
 {
 "projectUrl":"https://discord.gg/OpenOSRS",
 "provider":"Naxos-Plugin-Hub",
-"name":"Test Plugin Hub",
-"description":"Retrieved from the Naxos Plugin Hub",
-"id":"test-plugin",
+"name":"Ping",
+"description":"Displays your ping in-game",
+"id":"ping-plugin",
 "releases":[
 {
 "date":"2020-10-03",
-"sha512sum":"4f9320a31c85d647ecb646b7dcad9202cd06436c3f815737f6a37a4e954adc9a609bb9e0177b31c5028e3ee7aaabfacc2b6653d2c3b762f91b9206063ae09b14",
-"version":"0.0.1",
-"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/test-0.0.1.jar?raw=true",
+"sha512sum":"877804e34d3d2aad20acb8acb471532880cccc3f7482a2227b5c52d590b275dfd65b7d250cb18b0829f86b73874dc3d9fae648fcc0872a4955b26dbe417db39a",
+"version":"1.0.0",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/ping-1.0.0.jar?raw=true",
 "requires":"0.0.1"
 }
 ]
 }
+
 ]
