@@ -78,7 +78,7 @@
 "projectUrl":"",
 "provider":"Naxos-Plugin-Hub",
 "name":"Screenshot",
-"description":"Enable the manual and automatic taking of screenshots",
+"description":"Enable the ability to take screenshots",
 "id":"screenshot",
 "releases":[
 {
