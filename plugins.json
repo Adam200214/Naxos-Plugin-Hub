@@ -66,7 +66,7 @@
 "releases":[
 {
 "date":"2020-10-03",
-"sha512sum":"15e424ca6cb0ed5322fb2a90cf57e8d42a119ebcf7f8d68bb57823c89627067708c6e0454b118215e5573da52e9aff4c8c4fbb26d189d49d6ab2a34ff7d368e8",
+"sha512sum":"f31c86c8f5b086169b77e528f3d3723eadee3c636d2d4ad70c35e33483e3bebcd2744dd42b4583cb7920d3c23ca85b079b0736fca4d36d0bd42f8b5fb38c652d",
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/display-1.0.0.jar?raw=true",
 "requires":"0.0.1"
