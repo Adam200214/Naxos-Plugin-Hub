@@ -78,7 +78,7 @@
 "projectUrl":"",
 "provider":"Naxos-Plugin-Hub",
 "name":"Screenshot",
-"description":"Enable the ability to take screenshots",
+"description":"Enable the ability to take screenshots of the client",
 "id":"screenshot",
 "releases":[
 {
