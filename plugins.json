@@ -12,6 +12,13 @@
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/ping-1.0.0.jar?raw=true",
 "requires":"0.0.1"
+},
+{
+"date":"2020-10-04",
+"sha512sum":"a58751eefd848c03ea8ee0c1cd6db815039acda06bdf9cc4c7f20433a280304944920f875d083be23c927d28c8a3aa915a7b9c49fa6a5e9814bb5ab4f7e739cd",
+"version":"1.0.1",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/ping-1.0.1.jar?raw=true",
+"requires":"0.0.1"
 }
 ]
 },
@@ -59,7 +66,7 @@
 "releases":[
 {
 "date":"2020-10-03",
-"sha512sum":"316d74bcd8e1575791e3b9db6661e029d92dc53f692474e66d1ce9c0376c294c37e0a0791b1301da040b93723591a31a1a4c9b6fd9f8217144f584bd957d188d",
+"sha512sum":"15e424ca6cb0ed5322fb2a90cf57e8d42a119ebcf7f8d68bb57823c89627067708c6e0454b118215e5573da52e9aff4c8c4fbb26d189d49d6ab2a34ff7d368e8",
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/display-1.0.0.jar?raw=true",
 "requires":"0.0.1"
