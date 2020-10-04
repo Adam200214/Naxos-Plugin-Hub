@@ -89,6 +89,23 @@
 "requires":"0.0.1"
 }
 ]
+},
+
+{
+"projectUrl":"",
+"provider":"Naxos-Plugin-Hub",
+"name":"Ground Item Names",
+"description":"When enabled, you can easily see what items are on the ground",
+"id":"grounditem",
+"releases":[
+{
+"date":"2020-10-04",
+"sha512sum":"23c8d709c0aa4b4105f0ffc2b123b4f6fa1e8917a063a5891aaef45a3664b0ea29ea0aea619d2a1cd59122022f6e43fafd073b3cefaae0f7bc2c2a0b79b25cda",
+"version":"1.0.0",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/grounditem-1.0.0.jar?raw=true",
+"requires":"0.0.1"
+}
+]
 }
 
 ]
