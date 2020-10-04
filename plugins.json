@@ -72,6 +72,23 @@
 "requires":"0.0.1"
 }
 ]
+},
+
+{
+"projectUrl":"",
+"provider":"Naxos-Plugin-Hub",
+"name":"Screenshot",
+"description":"Enable the manual and automatic taking of screenshots",
+"id":"screenshot",
+"releases":[
+{
+"date":"2020-10-04",
+"sha512sum":"8cb4f3072403725f6c9038bcaec79d1fb6811ce21344d23c52538f66ec3689808c6854ee37a98ae784ef5939d3028c72e39834ba3519d81c873e20cec5dd5863",
+"version":"1.0.0",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/screenshot-1.0.0.jar?raw=true",
+"requires":"0.0.1"
+}
+]
 }
 
 ]
