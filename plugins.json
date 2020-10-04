@@ -100,7 +100,7 @@
 "releases":[
 {
 "date":"2020-10-04",
-"sha512sum":"23c8d709c0aa4b4105f0ffc2b123b4f6fa1e8917a063a5891aaef45a3664b0ea29ea0aea619d2a1cd59122022f6e43fafd073b3cefaae0f7bc2c2a0b79b25cda",
+"sha512sum":"b26a1e39305d755b2e1167520c40d7903a94a0290296c7752bc2ca7ac6ca9c3e3fb58a17032a93792317c83ad227c2980f5f67962a2da0de434a7cc128734a82",
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/grounditem-1.0.0.jar?raw=true",
 "requires":"0.0.1"
