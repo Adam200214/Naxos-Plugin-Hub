@@ -83,7 +83,7 @@
 "releases":[
 {
 "date":"2020-10-04",
-"sha512sum":"b3bfa779632558d91920d7ecb5cd6361738021924d22eb1afd7dac280eb519e561761821987001267d337ff67a0b935c6cb6cb9452d830830aefbf0250678168",
+"sha512sum":"52addc2bcfbea93af60c10f6d3b02694de2c56d65c750672930406c37d18265443cff959241ffdf53f263e3a213cbbd1bd87114e25e5b3dd7d315281f448d12a",
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/screenshot-1.0.0.jar?raw=true",
 "requires":"0.0.1"
@@ -100,7 +100,7 @@
 "releases":[
 {
 "date":"2020-10-04",
-"sha512sum":"b26a1e39305d755b2e1167520c40d7903a94a0290296c7752bc2ca7ac6ca9c3e3fb58a17032a93792317c83ad227c2980f5f67962a2da0de434a7cc128734a82",
+"sha512sum":"72f205efd626503ced755891848ef8092e865d0604a7783b5cca899de507d869811733452921e5423e73aafa091c60e8b01acb3a5d347e60bbc4de7af6cd095d",
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/grounditem-1.0.0.jar?raw=true",
 "requires":"0.0.1"
