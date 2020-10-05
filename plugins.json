@@ -147,6 +147,23 @@
 "requires":"0.0.1"
 }
 ]
+},
+
+{
+"projectUrl":"",
+"provider":"Naxos-Plugin-Hub",
+"name":"News Feed",
+"description":"Shows the latest Naxos announcements, updates and media posts",
+"id":"fog",
+"releases":[
+{
+"date":"2020-10-05",
+"sha512sum":"77306f77e16f1e22e8669c6afe3bb69c2768c704828daf6629c630969c4be087ac267e33099da811f32da0b53a8787f7c5c0fa29f53f756248a1645f2308b6f7",
+"version":"1.0.0",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/news-1.0.0.jar?raw=true",
+"requires":"0.0.1"
 }
+]
+},
 
 ]
