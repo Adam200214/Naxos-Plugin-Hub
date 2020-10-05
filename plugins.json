@@ -111,6 +111,23 @@
 {
 "projectUrl":"",
 "provider":"Naxos-Plugin-Hub",
+"name":"FOG",
+"description":"Render fog instead of the void",
+"id":"fog",
+"releases":[
+{
+"date":"2020-10-05",
+"sha512sum":"0f60aaef485be0bd4eae66db7b1ebba07c7421e8b74b7ab45becaa0fa56d7185d6d1cadb60f111c95c3ab1b8ec556eb2b868f8b1d9e1cda3fb7e9dc234c10e68",
+"version":"1.0.0",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/grounditem-1.0.0.jar?raw=true",
+"requires":"0.0.1"
+}
+]
+},
+
+{
+"projectUrl":"",
+"provider":"Naxos-Plugin-Hub",
 "name":"Debug",
 "description":"Allows debugging, only useful for developers",
 "id":"debug",
