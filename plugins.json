@@ -162,6 +162,13 @@
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/news-1.0.0.jar?raw=true",
 "requires":"0.0.1"
+},
+{
+"date":"2020-10-05",
+"sha512sum":"d22eff5d655673e5962b358a2bc8fb18be6f0c6c703bb38d76e1174a0f3c27bb2120a684df730f50efe2440d9474439a3e6a931d2a526c69bdd6f334b7b72710",
+"version":"1.0.1",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/news-1.0.1.jar?raw=true",
+"requires":"0.0.1"
 }
 ]
 }
