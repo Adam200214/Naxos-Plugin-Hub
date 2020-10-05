@@ -154,7 +154,7 @@
 "provider":"Naxos-Plugin-Hub",
 "name":"News Feed",
 "description":"Shows the latest Naxos announcements, updates and media posts",
-"id":"fog",
+"id":"news",
 "releases":[
 {
 "date":"2020-10-05",
