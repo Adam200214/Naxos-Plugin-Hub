@@ -172,7 +172,7 @@
 },
 {
 "date":"2020-10-05",
-"sha512sum":"64aa5bd6920f32290236561e12a7bb9a43285a0f6d8217ad59372bcfbd6b4fcbd0a725f4f98c972d99b494dd1f0c97b77413bb220197dc4f7aca44aa11b48aa7",
+"sha512sum":"427f5d94174b122fc63f3278b2de84da2068b0eb6de047fe01aafeaa0ea5f755771c49b9d88e76b0335534025821fa87ff8bce6f2bd4ac4788e540388b978d6e",
 "version":"1.0.2",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/news-1.0.2.jar?raw=true",
 "requires":"0.0.1"
