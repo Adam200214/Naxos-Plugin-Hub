@@ -106,6 +106,23 @@
 "requires":"0.0.1"
 }
 ]
+},
+
+{
+"projectUrl":"",
+"provider":"Naxos-Plugin-Hub",
+"name":"Debug",
+"description":"Allows debugging, only useful for developers",
+"id":"debug",
+"releases":[
+{
+"date":"2020-10-04",
+"sha512sum":"bd222849564b7c134af3bd723a016be730479822d719b541bbc153a6013fc94db67304e3704776bc3c288f9ef5c31e22ba8bc9839199a18f2fc864ae3d0fad44",
+"version":"1.0.0",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/debug-1.0.0.jar?raw=true",
+"requires":"0.0.1"
+}
+]
 }
 
 ]
