@@ -121,6 +121,13 @@
 "version":"1.0.0",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/debug-1.0.0.jar?raw=true",
 "requires":"0.0.1"
+},
+{
+"date":"2020-10-05",
+"sha512sum":"60bcfae765719ddda84272c6fadd7674b1a167c11a68d7dff4d5c3658b48d111d7298d05873586dcd67785058d90056af4d24de017e6781b7374a375b40dc62d",
+"version":"1.0.1",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/debug-1.0.1.jar?raw=true",
+"requires":"0.0.1"
 }
 ]
 }
