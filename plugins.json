@@ -43,6 +43,23 @@
 {
 "projectUrl":"",
 "provider":"Naxos-Plugin-Hub",
+"name":"Client Data",
+"description":"Overview on client related data",
+"id":"data",
+"releases":[
+{
+"date":"2020-10-05",
+"sha512sum":"bfe3f7f6205f39faf060f55850c7c22442550a7c5a507af4c0c3bd6cf473d11956a01f3b11f9fe5f73aa8829cab26ffdec2d5f2c6bfe563f529f1a8eb0ece6a1",
+"version":"1.0.0",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/data-1.0.0.jar?raw=true",
+"requires":"0.0.1"
+}
+]
+},
+
+{
+"projectUrl":"",
+"provider":"Naxos-Plugin-Hub",
 "name":"Account Switcher",
 "description":"Log in within the blink of an eye",
 "id":"accountswitcher",
