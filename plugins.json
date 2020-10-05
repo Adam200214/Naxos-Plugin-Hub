@@ -111,7 +111,7 @@
 {
 "projectUrl":"",
 "provider":"Naxos-Plugin-Hub",
-"name":"FOG",
+"name":"Render Fog",
 "description":"Render fog instead of the void",
 "id":"fog",
 "releases":[
