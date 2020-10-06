@@ -108,7 +108,7 @@
 {
 "date":"2020-10-06",
 "sha512sum":"1092518ed8e68725c7db6903edd890917eff59cf54afc5be14a8ad177c0fd72ebfab839c53d349f04b59296b654ce8964dbba0911d60d8626f9d45ea515737b5",
-"version":"1.0.0",
+"version":"1.0.1",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/display-1.0.1.jar?raw=true",
 "requires":"0.0.1"
 }
