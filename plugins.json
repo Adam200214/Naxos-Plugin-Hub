@@ -43,6 +43,23 @@
 {
 "projectUrl":"",
 "provider":"Naxos-Plugin-Hub",
+"name":"Discord",
+"description":"Show your status and activity in the Discord user panel",
+"id":"note",
+"releases":[
+{
+"date":"2020-10-06",
+"sha512sum":"db82c4e3ec9a7326ecea3538372d48e5ee5a81cedcb2c1d85d759194490d216f5e2dc5417cbf5cfa708387bc552df2d8e9e4aaeb44cf684c8aab79c555c1cca9",
+"version":"1.0.0",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/notes-1.0.0.jar?raw=true",
+"requires":"0.0.1"
+}
+]
+},
+
+{
+"projectUrl":"",
+"provider":"Naxos-Plugin-Hub",
 "name":"Client Data",
 "description":"Overview on client related data",
 "id":"data",
