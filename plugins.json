@@ -118,6 +118,13 @@
 "version":"1.0.2",
 "url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/display-1.0.2.jar?raw=true",
 "requires":"0.0.1"
+},
+{
+"date":"2020-10-06",
+"sha512sum":"08713807efe300f97d23cff67e18c65c0dc610d8e8fdfd7e10e1d3312aa84db17c0a2070b42c8552c2995fa6875761b255bfa7adcd8452dd017dc4e2bc6e5663",
+"version":"1.0.3",
+"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/display-1.0.3.jar?raw=true",
+"requires":"0.0.1"
 }
 ]
 },
