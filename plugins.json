@@ -74,22 +74,6 @@
 ]
 },
 
-{
-"projectUrl":"",
-"provider":"Naxos-Plugin-Hub",
-"name":"Account Switcher",
-"description":"Log in within the blink of an eye",
-"id":"accountswitcher",
-"releases":[
-{
-"date":"2020-10-03",
-"sha512sum":"f4bfd5051fdb74a5ec97c2a6c14ba497a9d03a3ec82124063ea8394296b5905d620f74930856e7c988cb233a8eb572890cae794e8e84c50393f570029e3b5c50",
-"version":"1.0.0",
-"url":"https://github.com/Adam200214/Naxos-Plugin-Hub/blob/master/release/AccountSwitcher-1.0.0.jar?raw=true",
-"requires":"0.0.1"
-}
-]
-},
 
 {
 "projectUrl":"",
